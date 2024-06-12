@@ -29,6 +29,12 @@
             "candidate": "fediakash2",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/fediakash2_AR.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/fediakash/README.md"
+        },
+        {
+            "address": "RDLQrPQPDK3W3L6EdGGXstyNNYFT8fVLqH",
+            "candidate": "chmex",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/chmex_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/chmex/README.md"
         }
     ],
     "EU": [
@@ -55,6 +61,12 @@
             "candidate": "fediakash",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/fediakash_EU.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/fediakash/README.md"
+        },
+        {
+            "address": "RTVKa9Dqa1bfzLDCSUo5zmfHFZBZyr3ftW",
+            "candidate": "chmex",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/chmex_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/chmex/README.md"
         }
     ],
     "NA": [
@@ -87,6 +99,12 @@
             "candidate": "strob",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/strob_NA.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/strob/README.md"
+        },
+        {
+            "address": "RMKfy7zjSvvKgC7tQReYrRSFfEFFGkZkFc",
+            "candidate": "chmex",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/chmex_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/chmex/README.md"
         }
     ],
     "SH": [
@@ -107,6 +125,24 @@
             "candidate": "strob",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/strob_SH.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/strob/README.md"
+        },
+        {
+            "address": "RRQHGqgKivuwvWgeWAvTnGg5VJr1aWNRx5",
+            "candidate": "artist",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/artist_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/artist/README.md"
+        },
+        {
+            "address": "RQxfyScivdSERChE2vYT9oFA7dWQzzPR4K",
+            "candidate": "chmex",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/chmex_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/chmex/README.md"
+        },
+        {
+            "address": "RYJV8pCtv4wtsvwFhLm1tn7hW3KDv9gcjR",
+            "candidate": "chmexvet",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/chmexvet_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/chmexvet/README.md"
         }
     ]
 }
